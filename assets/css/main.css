@@ -1064,7 +1064,7 @@ button {
 }
 
 .ready {
-    background: url("/filp.png") 25vw top no-repeat, #334131;
+    background: url("/flip.png") 25vw top no-repeat, #334131;
     background-position: left;
     position: relative;
     padding: 180px 0
